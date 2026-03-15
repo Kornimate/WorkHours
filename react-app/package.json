@@ -1,6 +1,6 @@
 {
   "name": "react-app",
-  "homepage": "https://kornimate.github.io/WorkSchedule/",
+  "homepage": "https://kornimate.github.io/WorkHours/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
