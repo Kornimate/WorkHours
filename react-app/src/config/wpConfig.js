@@ -1,5 +1,5 @@
 export const wpConfig = {
-    primaryColor: '#003d73',
+    primaryColor: '#05a756',
     secondaryColor: '#808080',
     backgroundColor: '#282c34',
     conditionalColor: '#DEB887',
