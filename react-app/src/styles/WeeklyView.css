@@ -1,0 +1,44 @@
+td, th{
+    height: 1vh;
+    width: 15vw;
+    margin: 5px;
+    padding: 5px;
+}
+
+td {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+th {
+    max-width: 8vw;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis !important;
+}
+
+h2 {
+    display: block;
+    width: 100%;
+    word-wrap: break-word;
+    text-align: center;
+    height: 1vw;
+    margin-bottom: 50px;
+}
+
+.text-bordered{
+    font-weight: bolder;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.border-outlined{
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 5px;
+}

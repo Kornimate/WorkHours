@@ -1,0 +1,58 @@
+.active-button {
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    word-wrap: break-word;
+    opacity: 0.8;
+    transition: 0.4s;
+    margin-top: 40px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.non-active-button {
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    word-wrap: break-word;
+    opacity: 0.8;
+    transition: 0.4s;
+    margin-top: 40px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+
+
+.buttons-div {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    width: 100%;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    font-weight: bold;
+}
+
+.week-button img{
+    height: 20px;
+    margin: 0;
+}
+
+.week-button{
+    padding: 0;
+    border-width: 0;
+}
