@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WorkSchedule/static/css/main.730f9f3b.css",
-    "main.js": "/WorkSchedule/static/js/main.2a5bda5f.js",
-    "static/media/workplace.png": "/WorkSchedule/static/media/workplace.bfc889123ba3155da949.png",
-    "index.html": "/WorkSchedule/index.html",
-    "main.730f9f3b.css.map": "/WorkSchedule/static/css/main.730f9f3b.css.map",
-    "main.2a5bda5f.js.map": "/WorkSchedule/static/js/main.2a5bda5f.js.map"
+    "main.css": "/WorkHours/static/css/main.730f9f3b.css",
+    "main.js": "/WorkHours/static/js/main.eeaad6bd.js",
+    "static/media/workplace.png": "/WorkHours/static/media/workplace.bfc889123ba3155da949.png",
+    "index.html": "/WorkHours/index.html",
+    "main.730f9f3b.css.map": "/WorkHours/static/css/main.730f9f3b.css.map",
+    "main.eeaad6bd.js.map": "/WorkHours/static/js/main.eeaad6bd.js.map"
   },
   "entrypoints": [
     "static/css/main.730f9f3b.css",
-    "static/js/main.2a5bda5f.js"
+    "static/js/main.eeaad6bd.js"
   ]
 }
